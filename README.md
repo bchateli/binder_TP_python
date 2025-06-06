@@ -1,0 +1,1 @@
+This repo contains a MWE for Python practicals
